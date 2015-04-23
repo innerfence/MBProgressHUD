@@ -111,7 +111,7 @@
 			isa = PBXProject;
 			attributes = {
 				CLASSPREFIX = MB;
-				LastUpgradeCheck = 0430;
+				LastUpgradeCheck = 0630;
 				ORGANIZATIONNAME = "Matej Bukovinski";
 			};
 			buildConfigurationList = D286A7431518C70E00E13FB8 /* Build configuration list for PBXProject "MBProgressHUD" */;
